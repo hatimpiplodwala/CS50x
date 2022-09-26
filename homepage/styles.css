@@ -1,0 +1,189 @@
+.hpheader {
+    color: #fff;
+    padding-top: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 11.5rem;
+    text-align: left;
+}
+
+.otherheader{
+    color: #fff;
+    padding-bottom: 10rem;
+    text-align: center;
+}
+
+.container {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: white;
+    justify-content: center;
+}
+
+.fontlarge{
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.fontsmall{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+nav{
+    font-size: 25px;
+    font-weight: 650;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    text-align: center;
+    justify-content: center;
+}
+
+#Nav a{
+    color: white;
+}
+
+#Nav a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.footers{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 21px;
+    padding-top: 0.5rem
+}
+
+.headings{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 9rem;
+}
+
+.outline{
+    -webkit-text-stroke: 1px black;
+}
+
+#interestheader{
+    background-image: url('images/interests.jpg');
+    background-position: center;
+}
+
+#hobbieheader{
+    background-image: url('images/hobbies.jpg');
+    background-position: center;
+}
+
+#aboutheader{
+    background-image: url('images/hi.jpg');
+    background-position: center;
+    color: #fff;
+    padding-bottom: 20rem;
+    text-align: center;
+}
+
+#heroheader{
+    background-image: url('images/batlogo.jpg');
+    background-position: center;
+}
+
+.genfont{
+    font-family: 'Arial Narrow', Arial;
+}
+
+.aligntext{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+video {
+    width: 50%;
+    height: 50%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.section {
+    width: 50%;
+    height: 100%;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+#ufcbutton{
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+    background-image: url('images/fist.png');
+    background-size: 30px 30px;
+    border: 1px black;
+}
+
+#tennisbutton{
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+    background-image: url('images/tennis-racket.png');
+    background-size: 30px 30px;
+    border: 1px black;
+}
+
+#vfxbutton{
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+    background-image: url('images/gear.png');
+    background-size: 30px 30px;
+    border: 1px black;
+}
+
+#gamebutton{
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+    background-image: url('images/videogame.png');
+    background-size: 30px 30px;
+    border: 1px black;
+}
+
+#pencilbutton{
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+    background-image: url('images/pencil.png');
+    background-size: 30px 30px;
+    border: 1px black;
+}
+
+#bookbutton{
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+    background-image: url('images/book.png');
+    background-size: 30px 30px;
+    border: 1px black;
+}
+
+#containerpic{
+    width: 60%;
+    height: 60%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#soundbutton{
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+    background-image: url('images/sound.png');
+    background-size: 30px 30px;
+    border: 1px black;
+}
