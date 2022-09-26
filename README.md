@@ -1,2 +1,7 @@
-# CS50x
-Introduction to Computer Science
+# CS50 (Introduction to Computer Science)
+
+https://cs50.harvard.edu/x/2022/
+
+My solutions to CS50's problem sets and labs.
+
+All done in CS50 codespace.
